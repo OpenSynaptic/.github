@@ -2,7 +2,7 @@
 
 [![Docs](https://img.shields.io/badge/Official%20Docs-opensynaptic.github.io-2563EB?style=for-the-badge)](https://opensynaptic.github.io/)
 [![Core](https://img.shields.io/badge/Core-OpenSynaptic-2E8B57?style=for-the-badge)](https://github.com/OpenSynaptic/OpenSynaptic)
-[![Embedded](https://img.shields.io/badge/Embedded-OSynapptic--FX-6A5ACD?style=for-the-badge)](https://github.com/OpenSynaptic/OSynapptic-FX)
+[![Embedded](https://img.shields.io/badge/Embedded-OSynapptic--FX-6A5ACD?style=for-the-badge)](https://github.com/OpenSynaptic/OSynaptic-FX)
 
 A modern protocol and runtime ecosystem for IoT data standardization, compression, transport abstraction, and embedded delivery.
 
