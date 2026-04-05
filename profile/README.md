@@ -2,7 +2,7 @@
 
 [![Docs](https://img.shields.io/badge/Official%20Docs-opensynaptic.github.io-2563EB?style=for-the-badge)](https://opensynaptic.github.io/)
 [![Core](https://img.shields.io/badge/Core-OpenSynaptic-2E8B57?style=for-the-badge)](https://github.com/OpenSynaptic/OpenSynaptic)
-[![Embedded](https://img.shields.io/badge/Embedded-OSynapptic--FX-6A5ACD?style=for-the-badge)](https://github.com/OpenSynaptic/OSynaptic-FX)
+[![Embedded](https://img.shields.io/badge/Embedded-OSynaptic--FX-6A5ACD?style=for-the-badge)](https://github.com/OpenSynaptic/OSynaptic-FX)
 
 A modern protocol and runtime ecosystem for IoT data standardization, compression, transport abstraction, and embedded delivery.
 
@@ -12,7 +12,7 @@ A modern protocol and runtime ecosystem for IoT data standardization, compressio
 
 - Official documentation: https://opensynaptic.github.io/
 - Primary stack: `OpenSynaptic` (Python + optional Rust core)
-- Embedded stack: `OSynapptic-FX` (C99, embedded-first)
+- Embedded stack: `OSynaptic-FX` (C99, embedded-first)
 - Focus: unified data pipeline from sensor input to multi-transport output
 
 ## Project Matrix
@@ -20,7 +20,7 @@ A modern protocol and runtime ecosystem for IoT data standardization, compressio
 | Project | Positioning | Tech | Best For | Quick Link |
 |---|---|---|---|---|
 | `OpenSynaptic` | High-performance IoT protocol stack with plugin-based services | Python, optional Rust core, multi-transport | Gateway apps, edge nodes, rapid integration | [Repository](https://github.com/OpenSynaptic/OpenSynaptic) |
-| `OSynapptic-FX` | Embedded-first C99 runtime and protocol workspace | C99, CMake, spec-driven architecture | MCU/SBC firmware, low-level runtime control | [Repository](https://github.com/OpenSynaptic/OSynapptic-FX) |
+| `OSynaptic-FX` | Embedded-first C99 runtime and protocol workspace | C99, CMake, spec-driven architecture | MCU/SBC firmware, low-level runtime control | [Repository](https://github.com/OpenSynaptic/OSynaptic-FX) |
 
 ## Architecture Vision
 
@@ -37,10 +37,10 @@ The ecosystem keeps one consistent protocol mindset across cloud-edge and embedd
 - Start with docs: https://opensynaptic.github.io/
 - Then open repository setup: https://github.com/OpenSynaptic/OpenSynaptic
 
-### 2) Embedded Path (`OSynapptic-FX`)
+### 2) Embedded Path (`OSynaptic-FX`)
 
 - Start with docs: https://opensynaptic.github.io/
-- Then open repository setup: https://github.com/OpenSynaptic/OSynapptic-FX
+- Then open repository setup: https://github.com/OpenSynaptic/OSynaptic-FX
 
 ## Why This Organization
 
@@ -54,8 +54,8 @@ The ecosystem keeps one consistent protocol mindset across cloud-edge and embedd
 - Official docs portal: https://opensynaptic.github.io/
 - OpenSynaptic repository docs and wiki:
   - https://github.com/OpenSynaptic/OpenSynaptic
-- OSynapptic-FX repository docs:
-  - https://github.com/OpenSynaptic/OSynapptic-FX
+- OSynaptic-FX repository docs:
+  - https://github.com/OpenSynaptic/OSynaptic-FX
 
 ## Contributing
 
