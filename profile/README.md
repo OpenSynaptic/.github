@@ -24,8 +24,8 @@ A modern protocol and runtime ecosystem for IoT data standardization, compressio
 | Project | Positioning | Tech | Best For | Quick Link |
 |---|---|---|---|---|
 | `OpenSynaptic` | High-performance IoT protocol stack with plugin-based services | Python, optional Rust core, multi-transport | Gateway apps, edge nodes, rapid integration | [Repository](https://github.com/OpenSynaptic/OpenSynaptic) |
-| `OSynaptic-TX` | Lightweight C89 transmitter library — encodes, compresses and packs sensor data for wire delivery | C99, no-heap, MCU-first | Sensor nodes, constrained transmitters | [Repository](https://github.com/OpenSynaptic/OSynaptic-TX) |
-| `OSynaptic-RX` | Lightweight C89 receiver library — decodes, verifies and extracts sensor data from wire frames | C99, streaming parser, CRC-verified | Gateway receivers, embedded decoders | [Repository](https://github.com/OpenSynaptic/OSynaptic-RX) |
+| `OSynaptic-TX` | Lightweight C89 transmitter library — encodes, compresses and packs sensor data for wire delivery | C89, no-heap, MCU-first | Sensor nodes, constrained transmitters | [Repository](https://github.com/OpenSynaptic/OSynaptic-TX) |
+| `OSynaptic-RX` | Lightweight C89 receiver library — decodes, verifies and extracts sensor data from wire frames | C89, streaming parser, CRC-verified | Gateway receivers, embedded decoders | [Repository](https://github.com/OpenSynaptic/OSynaptic-RX) |
 | `OSynaptic-FX` | Embedded-first C99 all-in-one runtime and protocol workspace (TX + RX + runtime + plugins) | C99, CMake, spec-driven architecture | MCU/SBC firmware, low-level runtime control | [Repository](https://github.com/OpenSynaptic/OSynaptic-FX) |
 | `Gsyn` | Cross-platform frontend dashboard for real-time IoT data visualization | Flutter (Dart), web + Android | Visual monitoring, live dashboards, end-user apps | [Repository](https://github.com/OpenSynaptic/Gsyn) |
 
