@@ -13,8 +13,8 @@ A modern protocol and runtime ecosystem for IoT data standardization, compressio
 
 - Official documentation: https://opensynaptic.github.io/
 - Protocol core: `OpenSynaptic` (Python + optional Rust core)
-- Embedded transmitter: `OSynaptic-TX` (C99, MCU-first encode/send)
-- Embedded receiver: `OSynaptic-RX` (C99, MCU-first decode/verify)
+- Embedded transmitter: `OSynaptic-TX` (C89, MCU-first encode/send)
+- Embedded receiver: `OSynaptic-RX` (C89, MCU-first decode/verify)
 - Full MCU runtime: `OSynaptic-FX` (C99, all-in-one embedded workspace)
 - Frontend dashboard: `Gsyn` (Flutter, web + Android data visualization)
 - Focus: end-to-end pipeline from raw sensor to visual dashboard
